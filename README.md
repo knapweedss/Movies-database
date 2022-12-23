@@ -1,2 +1,2 @@
 ## Схема базы данных
-![](images/moviescheme.png)
+![](images/movies.png)
